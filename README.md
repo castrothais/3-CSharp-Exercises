@@ -19,3 +19,12 @@ conforme exemplo abaixo.
 - [x] Verifica se o input é positivo;
 - [x] Conversão de tipos;
 - [x] Tratamento utilizando o TryParse;
+
+#### Exercício 2
+Escreva um programa que calcule e escreva a multiplicação e a divisão inteira de dois números 
+N1 por N2, que devem ser lidos do teclado. É importante observar que a máquina que irá
+executar este programa é capaz de efetuar apenas duas operações matemáticas: adição e 
+subtração. Ou seja, você não poderá usar os operadores de multiplicação, divisão, módulo etc. 
+bem como truncamentos.
+- [x] Verifica se o input é vazio ou nulo;
+- [x] Tratamento utilizando o TryParse;
